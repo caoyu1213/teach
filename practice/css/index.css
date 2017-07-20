@@ -1,0 +1,312 @@
+#header{
+   width: 1500px;
+    margin-top: 20px;
+}
+#header .pic img{
+    width: 354px;
+    height: 55px;
+    float: left;
+    margin-right: 400px;
+}
+#header li a{
+
+    margin-right: 15px;
+    margin-top: 25px;
+    color: #000;
+    float: left;
+    
+}
+#header li a:hover{
+    color: orangered;
+}
+#head-info{
+    width: 1500px;
+    margin-top: 30px;
+
+}
+#head-info img{
+    width: 1300px;
+    margin-left: 0;
+}
+
+#head-info .more{
+    background: #ffffff;
+    color: black;
+    margin-left: 300px;
+    margin-right: 150px;
+}
+#head-info .more1{
+    background: #ffffff;
+    color: black;
+    margin-left: 350px;
+}
+#head-info .new{
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+
+}
+#head-info .more:hover{
+  background: #e06666;
+    color: #ffffff;
+}
+#head-info .more1:hover{
+    background: #e06666;
+    color: #ffffff;
+}
+#head-info .right{
+    width: 400px;
+    height: 100px;
+    border: 1px dashed #000000;
+    float: right;
+    margin-top: 20px;
+    margin-right: 200px;
+    color: black;
+    cursor: pointer;
+}
+#head-info .right h5{
+
+    text-align: center;
+    line-height:35px;
+}
+#heade-low{
+    width: 1800px;
+    height: 490px;
+    background:#f5f5f5;
+    margin-top: 150px;
+}
+#heade-low .b{
+    margin-left: 250px;
+    width: 1500px;
+}
+#heade-low h2{
+    padding-top: 50px;
+    height: 54px;
+    text-align: center;
+    color: #666;
+
+}
+#heade-low h5{
+    height: 54px;
+    font-size: 18px;
+    text-align: center;
+    color: #666;
+    margin-bottom: 35px;
+}
+#heade-low a img{
+    width: 194px;
+    height: 175px;
+    cursor: pointer;
+    float: left;
+
+}
+#heade-low .b span {
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+    float: left;
+    margin-top: 200px;
+    margin-left: -120px;
+}
+#heade-low span:hover{
+     color: dodgerblue;
+}
+#heade-low button {
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    background: #f5f5f5;
+    color: black;
+    margin-top: 240px;
+    margin-left: -510px;
+    height: 25px;
+    width: 100px;
+}
+#heade-low button:hover{
+     background:#93c47d;
+    color: white;
+
+}
+#center{
+    width: 1800px;
+    height: 330px;
+    background:#93c47d;
+    margin: 0px auto;
+    text-align: center;
+}
+#center .span-1{
+    background:#ffffff;
+    color: #666;
+}
+#center .span-2{
+    background: #f1c232;
+    color: #ffffff;
+}
+#center div{
+   width: 200px;
+    height: 35px;
+    margin-left: 650px;
+
+}
+#center span{
+    display: block;
+    width: 100px;
+    height: 35px;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+    line-height: 35px;
+}
+#center h2 {
+    color: white;
+    font-size: 35px;
+     padding-top: 35px;
+    margin-bottom: 15px;
+    margin-left: -300px;
+}
+#center h3{
+    color: white;
+    font-size: 22px;
+    border-bottom: 1px solid #ffffff;
+    padding-bottom: 15px;
+    margin-left: 500px;
+    margin-right: 800px;
+}
+#center .a{
+    display: block;
+    width: 525px;
+    height: 35px;
+    color: white;
+    margin-top: 15px;
+    font-size: 12px;
+   margin-left: 480px;
+    line-height: 20px;
+}
+#center .know{
+    width: 102px;
+    height: 27px;
+    background:#93c47d;
+    border: 1px solid #ffffff;
+    color: white;
+    text-align: center;
+    line-height: 27px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: -300px;
+    font-size: 12px;
+
+}
+#center .know:hover{
+  background: #ffffff;
+    color: black;
+    border: 1px solid #e06666;
+
+}
+#foot{
+    width: 1600px;
+    height: 374px;
+    background:#fee157;
+    padding-top: 20px;
+
+}
+#foot .h4-1{
+    margin-left: 200px;
+    margin-right: 500px;
+    color: #666;
+
+}
+#foot .problem{
+     background: #fee157;
+    color: black;
+    font-size: 12px;
+    width: 100px;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 200px;
+}
+#foot .problem:hover{
+  background: #ffffff;
+
+}
+#foot .h4-2{
+    color: #666666;
+}
+#foot .foot-info{
+   width: 670px;
+    height: 210px;
+    margin-top: 40px;
+    border:1px dashed #666;
+    margin-left: 200px;
+    padding-top: 25px;
+}
+.foot-info .sp{
+
+    width: 500px;
+     margin-left: 50px;
+    line-height: 30px;
+    border-bottom: 1px dashed #666666;
+
+}
+#foot .rinfo{
+    width: 335px;
+    height: 300px;
+    border:1px dashed #666;
+    margin-left: 1000px;
+    margin-top: -235px;
+    padding-top: 25px;
+}
+#foot .rinfo .h{
+    margin-left: 110px;
+}
+#foot .rinfo .in{
+    width: 260px;
+    height: 30px;
+    border: 1px dashed #666666;
+    margin-left: 30px;
+    margin-top: -15px;
+    margin-bottom: 5px;
+
+}
+#foot .rinfo h5{
+    margin-left: 50px;
+    float: left;
+    margin-top: 5px;
+}
+#foot .rinfo .inp{
+     width: 80px;
+     height: 25px;
+     border: 1px dashed #666666;
+     margin-left: 0px;
+
+}
+#foot .rinfo .f{
+    width: 100px;
+    height: 25px;
+    background: #666666;
+    color: white;
+    margin-top: 15px;
+    margin-left: 45px;
+    cursor: pointer;
+}
+#footer{
+    width: 1800px;
+    height: 135px;
+    background: #666666;
+}
+#footer .end{
+    padding-top: 15px;
+     margin-left: 600px;
+    color: white;
+    font-size: 15px;
+
+}
+#footer p{
+   margin-left: 600px;
+    margin-top: 20px;
+    color: white;
+    font-size: 12px;
+
+}
